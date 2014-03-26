@@ -1,0 +1,10 @@
+c:\documents and settings\dunnke\my documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\documents and settings\dunnke\my documents\visual studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\documents and settings\dunnke\my documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\dunnke\my documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\documents and settings\dunnke\my documents\visual studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\dunnke\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\dunnke\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\dunnke\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dunnke\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\dunnke\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
