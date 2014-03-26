@@ -1,6 +1,6 @@
 This API data sample will provide the steps to create a simple .Net Web application that can display EPA Design for the Environment (DfE) Data. The Envirofacts DfE data contains products EPA labeled environmentally friendly, so that consumers can easily choose ones that are safer for people and the environment. 
 
-This API data sample will query and display a list of products from the All-Purpose Cleaners sector. Download the .Net project code required for this project.  The same code, along with step-by-step guidance for this API sample project can be found here: http://epa.gov/developer/dot_net.html
+This API data sample will query and display a list of products from the All-Purpose Cleaners sector. Download the .Net project code required for this project.  The same code, along with step-by-step guidance for this API sample project can be found here: http://developer.epa.gov/net-sample-code/
 
 The United States Environmental Protection Agency (EPA) GitHub project code is provided on an "as is" basis and the user assumes responsibility for its use.
 
